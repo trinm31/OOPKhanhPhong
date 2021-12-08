@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/bin/Debug/net5.0/OOPKhanhPhong.deps.json
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/bin/Debug/net5.0/OOPKhanhPhong.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/bin/Debug/net5.0/OOPKhanhPhong.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/bin/Debug/net5.0/OOPKhanhPhong.dll
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/bin/Debug/net5.0/ref/OOPKhanhPhong.dll
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/bin/Debug/net5.0/OOPKhanhPhong.pdb
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/obj/Debug/net5.0/OOPKhanhPhong.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/obj/Debug/net5.0/OOPKhanhPhong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/obj/Debug/net5.0/OOPKhanhPhong.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/obj/Debug/net5.0/OOPKhanhPhong.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/obj/Debug/net5.0/OOPKhanhPhong.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/obj/Debug/net5.0/OOPKhanhPhong.dll
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/obj/Debug/net5.0/ref/OOPKhanhPhong.dll
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/obj/Debug/net5.0/OOPKhanhPhong.pdb
+/Users/nguyenminhtri/RiderProjects/OOPKhanhPhong/OOPKhanhPhong/obj/Debug/net5.0/OOPKhanhPhong.genruntimeconfig.cache
