@@ -15,5 +15,10 @@ namespace OOPKhanhPhong
             this.Width = width;
             this.Height = height;
         }
+
+        public string daddy()
+        {
+            return "hello";
+        }
     }
 }

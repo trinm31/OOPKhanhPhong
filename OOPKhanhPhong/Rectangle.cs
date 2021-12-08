@@ -19,6 +19,7 @@ namespace OOPKhanhPhong
 
         public string GetColor()
         {
+            daddy();
             return Color;
         }
     }
