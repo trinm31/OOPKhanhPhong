@@ -6,12 +6,12 @@ namespace OOPKhanhPhong
     {
         static void Main(string[] args)
         {
-            //Box box1 = new Box();
-
+            Box box1 = new Box();
+            
             Rectangle rectangle = new Rectangle(5,7, "Red");
 
             // rectangle.Width = 5;
-            // rectangle.Height = 7;
+             //rectangle.Height = 7;
             
             // in ra area
 

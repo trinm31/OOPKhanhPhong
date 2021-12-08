@@ -2,9 +2,10 @@ using System;
 
 namespace OOPKhanhPhong
 {
-    public class Box
+    internal class Box
     {
         //fields
+        // access modifier - quyền access - (public internal private protected)
         private double _length;
         private double _breadth;
         private double _height;
