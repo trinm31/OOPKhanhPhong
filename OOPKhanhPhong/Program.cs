@@ -32,8 +32,10 @@ namespace OOPKhanhPhong
             Shape shape = new Shape();
             Console.WriteLine(shape.Helloworld());
             Console.WriteLine(rectangle1.Helloworld());
-            
-            
+
+            HocSinhGioiToan hocSinhGioiToan = new HocSinhGioiToan();
+            hocSinhGioiToan.Study();
+
         }
     }
 }
