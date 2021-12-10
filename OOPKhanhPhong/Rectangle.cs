@@ -59,5 +59,10 @@ namespace OOPKhanhPhong
             daddy();
             return Color;
         }
+
+        public override string Helloworld()
+        {
+            return base.Helloworld() + " this is from rectangle";
+        }
     }
 }

@@ -20,5 +20,10 @@ namespace OOPKhanhPhong
         {
             return "hello";
         }
+
+        public virtual string Helloworld()
+        {
+            return "Hello world";
+        }
     }
 }
